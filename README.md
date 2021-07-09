@@ -1,11 +1,11 @@
 # Studies
 
 ## Courses
-- Stanford - Machine Learning (Instructor: Andrew Ng)
-- UCLA - Reinforcement Learning (Instructor: David Silver)
-- MIT - Deep Learning (Instructors: )
-- Stanford - Multi-Task and Meta-Learning (Instructor: Chelsea Finn)
-- Imperial College - Probabilistic Deep Learning (Instructor: )
+- [x] Stanford - Machine Learning [[Certificate](https://coursera.org/share/254558b793a344d0167266d367fb9942)] [[My HWs]()]
+- [x] MIT - Deep Learning [[My HWs]()]
+- [x] UCL - Reinforcement Learning
+- [x] Stanford - Multi-Task and Meta-Learning [[My HWs]()]
+- [x] Imperial College London - Probabilistic Deep Learning with TensorFlow 2 [[Certificate](https://coursera.org/share/ceccb8912cc44225902502d528060e8b)]
 
 ## Papers
 
@@ -41,6 +41,8 @@
 - [X] [Meta-Learning through Hebbian Plasticity in Random Networks](https://www.youtube.com/watch?v=v2GRWzIhaqQ)
 - [ ] [Towards Interpretable Reinforcement Learning Using Attention Augmented Agents (2019)](https://arxiv.org/abs/1906.02500)
 - [ ] [Decision Transformer: Reinforcement Learning via Sequence Modeling (2021)](https://arxiv.org/abs/2106.01345)
+- [ ] [Fast Reinforcement Learning With Generalized Policy Updates (2020)](https://www.youtube.com/watch?v=9-o2aAoN0rY)
+- [ ] [iMAML: Meta-Learning with Implicit Gradients (2019)](https://www.youtube.com/watch?v=u5BkO8XMS2I)
 
 ## Articles
 - [x] [Understanding Variational Autoencoders (VAEs)](https://towardsdatascience.com/understanding-variational-autoencoders-vaes-f70510919f73)
