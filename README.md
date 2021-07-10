@@ -1,11 +1,11 @@
 # Studies
 
 ## Courses
-- [x] Stanford - Machine Learning [[Certificate](https://coursera.org/share/254558b793a344d0167266d367fb9942)] [[My HWs]()]
-- [x] MIT - Deep Learning [[My HWs]()]
+- [x] Stanford - Machine Learning
+- [x] MIT - Deep Learning
 - [x] UCL - Reinforcement Learning
-- [x] Stanford - Multi-Task and Meta-Learning [[My HWs]()]
-- [x] Imperial College London - Probabilistic Deep Learning with TensorFlow 2 [[Certificate](https://coursera.org/share/ceccb8912cc44225902502d528060e8b)]
+- [x] Stanford - Multi-Task and Meta-Learning
+- [x] Imperial College London - Probabilistic Deep Learning with TensorFlow 2
 
 ## Papers
 
