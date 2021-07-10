@@ -2,10 +2,10 @@
 
 ## Courses
 - [x] Stanford - Machine Learning [[Link](https://www.coursera.org/learn/machine-learning)]
-- [x] MIT - Deep Learning [[Link](http://introtodeeplearning.com/)]
+- [x] MIT 6.S191 - Deep Learning (2021) [[Link](http://introtodeeplearning.com/)]
 - [x] David Silver - Reinforcement Learning [[Link](https://www.davidsilver.uk/teaching/)]
 - [x] Stanford - Multi-Task and Meta-Learning [[Link](http://cs330.stanford.edu/)]
-- [x] Imperial College London - Probabilistic Deep Learning with TensorFlow 2 [[Link](https://www.coursera.org/learn/probabilistic-deep-learning-with-tensorflow2)]
+- [x] Imperial College London - Probabilistic Deep Learning [[Link](https://www.coursera.org/learn/probabilistic-deep-learning-with-tensorflow2)]
 
 ## Papers
 
