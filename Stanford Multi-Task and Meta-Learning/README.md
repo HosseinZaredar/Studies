@@ -2,7 +2,7 @@
 
 Stanford `Multi-Task and Meta-Learning` course, taught by Chelsea Finn [[Link](http://cs330.stanford.edu/)].
 
-## My Implementations
+## My Implementation Results
 <p align="center">
   Few-Shot Learning on Omniglot Dataset
 </p>
