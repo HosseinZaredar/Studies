@@ -29,6 +29,7 @@
 - [X] [ZS-IL: Looking Back on Learned Experiences For Zero-Shot Incremental Learning (2021)](https://arxiv.org/abs/2103.12216)
 - [X] [Deep End-to-End One-Class Classifier (2020)](https://www.semanticscholar.org/paper/Deep-End-to-End-One-Class-Classifier-Sabokrou-Fathy/086015aa2c44bd2ebd95ab6a1a562e57177c7fa8)
 - [X] [Self-Supervised Representation Learning via Neighborhood-Relational Encoding (2019)](https://arxiv.org/abs/1908.10455)
+- [X] [Maximising Robustness and Diversity for Improving The Deep Neural Network Safety (2021)](https://ietresearch.onlinelibrary.wiley.com/doi/full/10.1049/ell2.12070)
 - [ ] [Understanding Deep Learning Requires Rethinking Generalization (2016)](https://arxiv.org/abs/1611.03530)
 - [ ] [Inductive Biases for Deep Learning of Higher-Level Cognition (2021)](https://arxiv.org/abs/2011.15091)
 - [ ] [Meta-Learning in Neural Networks: A Survey (2020)](https://arxiv.org/abs/2004.05439)
