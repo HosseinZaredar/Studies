@@ -32,11 +32,11 @@
 - [X] [Maximising Robustness and Diversity for Improving The Deep Neural Network Safety (2021)](https://ietresearch.onlinelibrary.wiley.com/doi/full/10.1049/ell2.12070)
 - [X] [G2D: Generate to Detect Anomaly (2020)](https://arxiv.org/abs/2006.11629) 
 - [X] [Unsupervised Feature Ranking and Selection Based On Autoencoders (2019)](https://www.researchgate.net/publication/332791204_Unsupervised_Feature_Ranking_and_Selection_Based_on_Autoencoders)
+- [X] [One Pixel Attack For Fooling Deep Neural Networks (2017)](https://arxiv.org/abs/1710.08864)
 - [ ] [Adversarial Examples Are Not Bugs, They Are Features (2019)](https://arxiv.org/abs/1905.02175) + [Yannic Kilcher's Review](https://www.youtube.com/watch?v=hMO6rbMAPew)
 - [ ] [Understanding Deep Learning Requires Rethinking Generalization (2016)](https://arxiv.org/abs/1611.03530)
 - [ ] [Inductive Biases for Deep Learning of Higher-Level Cognition (2021)](https://arxiv.org/abs/2011.15091)
 - [ ] [Meta-Learning in Neural Networks: A Survey (2020)](https://arxiv.org/abs/2004.05439)
-- [ ] [One Pixel Attack For Fooling Deep Neural Networks (2017)](https://arxiv.org/abs/1710.08864)
 - [ ] [Self-taught Learning: Transfer Learning from Unlabeled Data (2007)](https://ai.stanford.edu/~hllee/icml07-selftaughtlearning.pdf)
 
 ### Reinforcement Learning
