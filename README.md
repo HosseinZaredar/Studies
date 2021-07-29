@@ -33,6 +33,7 @@
 - [X] [G2D: Generate to Detect Anomaly (2020)](https://arxiv.org/abs/2006.11629) 
 - [X] [Unsupervised Feature Ranking and Selection Based On Autoencoders (2019)](https://www.researchgate.net/publication/332791204_Unsupervised_Feature_Ranking_and_Selection_Based_on_Autoencoders)
 - [X] [One Pixel Attack For Fooling Deep Neural Networks (2017)](https://arxiv.org/abs/1710.08864)
+- [X] [Image and Video Deep Anomaly Detection: A Survey (2021)](https://arxiv.org/abs/2103.01739)
 - [ ] [Adversarial Examples Are Not Bugs, They Are Features (2019)](https://arxiv.org/abs/1905.02175) + [Yannic Kilcher's Review](https://www.youtube.com/watch?v=hMO6rbMAPew)
 - [ ] [Understanding Deep Learning Requires Rethinking Generalization (2016)](https://arxiv.org/abs/1611.03530)
 - [ ] [Inductive Biases for Deep Learning of Higher-Level Cognition (2021)](https://arxiv.org/abs/2011.15091)
