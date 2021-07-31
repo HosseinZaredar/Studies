@@ -36,6 +36,7 @@
 - [X] [Image and Video Deep Anomaly Detection: A Survey (2021)](https://arxiv.org/abs/2103.01739)
 - [X] [A Critical Analysis of Self-Supervision, or What We Can Learn from a Single Image (2019)](https://arxiv.org/abs/1904.13132) + [Yannic Kilcher's Review](https://www.youtube.com/watch?v=l5he9JNJqHA)
 - [X] [Implicit Neural Representations with Periodic Activation Functions (2020)](https://vsitzmann.github.io/siren/)
+- [X] [DeblurGAN: Blind Motion Deblurring Using Conditional Adversarial Networks (2018)](https://arxiv.org/abs/1711.07064)
 - [ ] [Adversarial Examples Are Not Bugs, They Are Features (2019)](https://arxiv.org/abs/1905.02175) + [Yannic Kilcher's Review](https://www.youtube.com/watch?v=hMO6rbMAPew)
 - [ ] [Understanding Deep Learning Requires Rethinking Generalization (2016)](https://arxiv.org/abs/1611.03530)
 - [ ] [Inductive Biases for Deep Learning of Higher-Level Cognition (2021)](https://arxiv.org/abs/2011.15091)
