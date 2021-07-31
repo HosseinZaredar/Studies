@@ -35,6 +35,7 @@
 - [X] [One Pixel Attack For Fooling Deep Neural Networks (2017)](https://arxiv.org/abs/1710.08864)
 - [X] [Image and Video Deep Anomaly Detection: A Survey (2021)](https://arxiv.org/abs/2103.01739)
 - [X] [A Critical Analysis of Self-Supervision, or What We Can Learn from a Single Image (2019)](https://arxiv.org/abs/1904.13132) + [Yannic Kilcher's Review](https://www.youtube.com/watch?v=l5he9JNJqHA)
+- [X] [Implicit Neural Representations with Periodic Activation Functions (2020)](https://vsitzmann.github.io/siren/)
 - [ ] [Adversarial Examples Are Not Bugs, They Are Features (2019)](https://arxiv.org/abs/1905.02175) + [Yannic Kilcher's Review](https://www.youtube.com/watch?v=hMO6rbMAPew)
 - [ ] [Understanding Deep Learning Requires Rethinking Generalization (2016)](https://arxiv.org/abs/1611.03530)
 - [ ] [Inductive Biases for Deep Learning of Higher-Level Cognition (2021)](https://arxiv.org/abs/2011.15091)
@@ -61,7 +62,8 @@
 - [x] [Attention and Augmented Recurrent Neural Networks](https://distill.pub/2016/augmented-rnns/)
 - [x] [Feature Visualization](https://distill.pub/2017/feature-visualization/) 
 - [x] [Why Uncertainty Matters in Deep Learning and How to Estimate It](https://everyhue.me/posts/why-uncertainty-matters/)
+- [X] [Alien Dreams: An Emerging Art Scene](https://ml.berkeley.edu/blog/posts/clip-art/)
 - [ ] [Don't Mess with Backprop: Doubts about Biologically Plausible Deep Learning](https://blog.evjang.com/2021/02/backprop.html)
-- [ ] [Alien Dreams: An Emerging Art Scene](https://ml.berkeley.edu/blog/posts/clip-art/)
+
 
 
