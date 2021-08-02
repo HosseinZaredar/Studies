@@ -40,6 +40,7 @@
 - [X] [Fully Convolutional Networks for Semantic Segmentation (2015)](https://arxiv.org/abs/1411.4038)
 - [X] [U-Net: Convolutional Networks for Biomedical Image Segmentation (2015)](https://arxiv.org/abs/1505.04597)
 - [X] [You Only Look Once: Unified, Real-Time Object Detection (2016)](https://arxiv.org/abs/1506.02640)
+- [X] [Dynamic Routing Between Capsules (2017)](https://arxiv.org/abs/1710.09829)
 - [ ] [Adversarial Examples Are Not Bugs, They Are Features (2019)](https://arxiv.org/abs/1905.02175) + [Yannic Kilcher's Review](https://www.youtube.com/watch?v=hMO6rbMAPew)
 - [ ] [Understanding Deep Learning Requires Rethinking Generalization (2016)](https://arxiv.org/abs/1611.03530)
 - [ ] [Inductive Biases for Deep Learning of Higher-Level Cognition (2021)](https://arxiv.org/abs/2011.15091)
@@ -67,6 +68,7 @@
 - [x] [Feature Visualization](https://distill.pub/2017/feature-visualization/) 
 - [x] [Why Uncertainty Matters in Deep Learning and How to Estimate It](https://everyhue.me/posts/why-uncertainty-matters/)
 - [X] [Alien Dreams: An Emerging Art Scene](https://ml.berkeley.edu/blog/posts/clip-art/)
+- [X] [Andrej Karpathy - Software 2.0](https://karpathy.medium.com/software-2-0-a64152b37c35)
 - [ ] [Don't Mess with Backprop: Doubts about Biologically Plausible Deep Learning](https://blog.evjang.com/2021/02/backprop.html)
 
 
