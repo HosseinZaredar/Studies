@@ -41,11 +41,18 @@
 - [X] [U-Net: Convolutional Networks for Biomedical Image Segmentation (2015)](https://arxiv.org/abs/1505.04597)
 - [X] [You Only Look Once: Unified, Real-Time Object Detection (2016)](https://arxiv.org/abs/1506.02640)
 - [X] [Dynamic Routing Between Capsules (2017)](https://arxiv.org/abs/1710.09829)
+- [X] [Understanding Deep Learning Requires Rethinking Generalization (2016)](https://arxiv.org/abs/1611.03530)
+- [X] [WaveNet: A Generative Model For Raw Audio (2016)](https://arxiv.org/abs/1609.03499) + [Blog Post](https://deepmind.com/blog/article/wavenet-generative-model-raw-audio)
 - [ ] [Adversarial Examples Are Not Bugs, They Are Features (2019)](https://arxiv.org/abs/1905.02175) + [Yannic Kilcher's Review](https://www.youtube.com/watch?v=hMO6rbMAPew)
-- [ ] [Understanding Deep Learning Requires Rethinking Generalization (2016)](https://arxiv.org/abs/1611.03530)
 - [ ] [Inductive Biases for Deep Learning of Higher-Level Cognition (2021)](https://arxiv.org/abs/2011.15091)
 - [ ] [Meta-Learning in Neural Networks: A Survey (2020)](https://arxiv.org/abs/2004.05439)
 - [ ] [Self-taught Learning: Transfer Learning from Unlabeled Data (2007)](https://ai.stanford.edu/~hllee/icml07-selftaughtlearning.pdf)
+- [ ] [Visualizing and Understanding Recurrent Networks (2015)](https://arxiv.org/abs/1506.02078)
+- [ ] [Unsupervised Representation Learning with Deep Convolutional Generative Adversarial Networks (2015)](https://arxiv.org/abs/1511.06434)
+- [ ] [Binarized Neural Networks (2016)](https://arxiv.org/abs/1602.02830)
+- [ ] [Large-Scale Evolution of Image Classifiers (2017)](https://arxiv.org/abs/1703.01041)
+- [ ] [One Model To Learn Them All (2017)](https://arxiv.org/abs/1706.05137)
+- [ ] [Do Wide and Deep Networks Learn the Same Things? (2020)](https://arxiv.org/abs/2010.15327)
 
 ### Reinforcement Learning
 - [x] [Playing Atari with Deep Reinforcement Learning (2013)](https://arxiv.org/abs/1312.5602)
@@ -59,6 +66,7 @@
 - [ ] [Decision Transformer: Reinforcement Learning via Sequence Modeling (2021)](https://arxiv.org/abs/2106.01345)
 - [ ] [Fast Reinforcement Learning With Generalized Policy Updates (2020)](https://www.pnas.org/content/117/48/30079) + [Yannic Kilcher's Review](https://www.youtube.com/watch?v=9-o2aAoN0rY)
 - [ ] [iMAML: Meta-Learning with Implicit Gradients (2019)](https://arxiv.org/abs/1909.04630) + [Yannic Kilcher's Review](https://www.youtube.com/watch?v=u5BkO8XMS2I)
+- [ ] [Evolution Strategies as a Scalable Alternative to Reinforcement Learning (2017)](https://arxiv.org/abs/1703.03864)
 
 ## Articles
 - [x] [Understanding Variational Autoencoders (VAEs)](https://towardsdatascience.com/understanding-variational-autoencoders-vaes-f70510919f73)
