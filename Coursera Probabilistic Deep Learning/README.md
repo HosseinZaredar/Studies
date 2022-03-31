@@ -24,6 +24,12 @@ Different methods have been proposed in the recent years to deal with uncertaint
 
 ### Results
 
+The variance in the plots shows the uncertainty of the model:
+
+Bayesian Networks            |  Model Ensembling          |  Monte Carlo Dropout
+:-------------------------:|:-------------------------:|:-------------------------:
+![Bayesian](https://github.com/HosseinZaredar/Studies/blob/main/Coursera%20Probabilistic%20Deep%20Learning/images/bayesian.png?raw=true)  |  ![Ensembling](https://github.com/HosseinZaredar/Studies/blob/main/Coursera%20Probabilistic%20Deep%20Learning/images/ensemble.png?raw=true) | ![Monte Carlo](https://github.com/HosseinZaredar/Studies/blob/main/Coursera%20Probabilistic%20Deep%20Learning/images/monte.png?raw=true)
+
 
 All the code can be found [here](https://github.com/HosseinZaredar/Studies/blob/main/Coursera%20Probabilistic%20Deep%20Learning/Uncertainty-in-Regression.ipynb).
 
