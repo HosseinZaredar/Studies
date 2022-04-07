@@ -75,6 +75,7 @@
 - [X] [Alien Dreams: An Emerging Art Scene](https://ml.berkeley.edu/blog/posts/clip-art/)
 - [X] [Andrej Karpathy - Software 2.0](https://karpathy.medium.com/software-2-0-a64152b37c35)
 - [X] [Sebastian Ruder - An Overview of Gradient Descent Optimization Algorithms](https://ruder.io/optimizing-gradient-descent/index.html)
+- [X] [Distill - A Gentle Introduction to Graph Neural Networks](https://distill.pub/2021/gnn-intro/)
 
 ## Videos
 - [X] [Ari Seff - What is Automatic Differentiation?](https://www.youtube.com/watch?v=wG_nF1awSSY)
