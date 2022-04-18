@@ -82,3 +82,4 @@
 - [X] [Ari Seff - What is Automatic Differentiation?](https://www.youtube.com/watch?v=wG_nF1awSSY)
 - [X] [Elliot Waite - PyTorch Autograd Explained](https://www.youtube.com/watch?v=MswxJw-8PvE)
 - [X] [Yann LeCun - Optimisation for Deep Learning](https://www.youtube.com/watch?v=n1w5b5rTFv0)
+- [X] [zedstatistics - Statistical Inference](https://www.youtube.com/playlist?list=PLTNMv857s9WU729gegxdW2e4wto2wEP4S)
