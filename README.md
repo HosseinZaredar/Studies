@@ -8,8 +8,8 @@
 - [x] Imperial College London - Probabilistic Deep Learning [[Website](https://www.coursera.org/learn/probabilistic-deep-learning-with-tensorflow2)]
 - [X] ‪Stephen Boyd‬ - Convex Optimization Short Course [[Website](https://web.stanford.edu/~boyd/papers/cvx_short_course.html)]
 - [X] Kaggle - Time Series [[Website](https://www.kaggle.com/learn/time-series)]
+- [X] Kaggle - Machine Learning Explainability [[Website](https://www.kaggle.com/learn/machine-learning-explainability)]
 - [ ] Stanford - CS224n: Natural Language Processing with Deep Learning (2021) [[Website](http://web.stanford.edu/class/cs224n/)]
-- [ ] Kaggle - Machine Learning Explainability [[Website](https://www.kaggle.com/learn/machine-learning-explainability)]
 
 ## Notable General Machine Learning Papers
 
